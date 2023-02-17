@@ -6,7 +6,7 @@ function start() {
 
   var link = "https://webosrs.com/"; // link to app webpage
   var title = "webOSRS"; // title shown in navbar
-  var id = "https://raw.githubusercontent.com/SAK2050/clockworkcodes/main/osrs%20script?token=GHSAT0AAAAAAB653CZAZJD4XJ6YXXIQONOOY7PYGNQ"; // set this to the url location of your script
+  var id = "https://raw.githubusercontent.com/SAK2050/clockworkcodes/main/osrs%20script?token=GHSAT0AAAAAAB653CZAMLEFDAUCARGZLNASY7PYTYA"; // set this to the url location of your script
   
   ////SCRIPT////
   
